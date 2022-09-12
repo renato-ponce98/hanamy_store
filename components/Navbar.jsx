@@ -10,6 +10,7 @@ const Navbar = () => {
   return (
     <div className='navbar-container'>
       <p className='logo'>
+        <img src="/logo.jpg"/>
         <Link href="/"> Hanamy Manga and Anime</Link>
       </p>
 

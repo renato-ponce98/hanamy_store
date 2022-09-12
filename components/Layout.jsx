@@ -7,6 +7,7 @@ const Layout = ({children}) => {
   return (
     <div className='layout'>
       <Head>
+        <link rel="shortcut icon" href="/favicon/favicon.ico"/>
         <title>Hanamy Store</title>
       </Head>
       <header>
